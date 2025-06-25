@@ -6,6 +6,7 @@ Detection of a yellow smiley ball using CV2.
 This project implements real-time yellow ball detection using computer vision techniques. The system captures video feed, processes each frame to detect yellow objects, tracks their movement, and provides visual feedback along with performance metrics.
 
 **Features**
+
     •	Real-time yellow object detection using HSV color thresholding
 
     •	Advanced contour processing with size and shape filtering
@@ -32,6 +33,7 @@ This project implements real-time yellow ball detection using computer vision te
 
 
 **Requirements**
+
     •	Python 3.x
 
     •	OpenCV (cv2)
