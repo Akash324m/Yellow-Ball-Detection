@@ -73,6 +73,9 @@ This project implements real-time yellow ball detection using computer vision te
     
             o	To use a local webcam, uncomment cap = cv2.VideoCapture(0) and comment out the IP camera line
 
+**Detection**
+![{D82BCD84-6CB4-4C47-B1F3-E25364E3557E}](https://github.com/user-attachments/assets/d93d3cb5-01ca-4ca6-bec3-e6e831997189)
+
 
 **Configuration**
 
